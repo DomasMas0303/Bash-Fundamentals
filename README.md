@@ -39,9 +39,9 @@ Each module consists of lectures followed up by tests and homework, and a "final
 - <b>SED Command Overview</b>
 
 
-<h2> Homework Tasks: </h2>
+<h2> Final task: </h2>
 
-#Each lecture contained a homework task.
+
 
 ![image](https://github.com/DomasMas0303/Bash-Fundamentals/assets/125759458/b94305a8-0429-4a43-a6f6-3420ff9971ac)
 ![image](https://github.com/DomasMas0303/Bash-Fundamentals/assets/125759458/273bab67-e238-4d26-b8e7-cfd33f393652)
